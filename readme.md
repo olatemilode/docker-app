@@ -1,5 +1,5 @@
 # Docker app
-# Eplanation of docker file instructions
+# Explanation of docker file instructions
 # FROM
 Specifies the base image to use.
 
