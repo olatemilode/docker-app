@@ -16,4 +16,4 @@ Defines the default command that runs when the container starts (e.g., python ap
 This projet sets up a monitoring stack using Docker Compose featuring Prometheus, Grafana and blackbox exporter for observability and metrics visualization.
 
 # Running containers
-![running containers](running container.PNG)
+![running containers](running-containers.PNG)
